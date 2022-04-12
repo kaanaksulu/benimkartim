@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('ilk Ekran'),
-          backgroundColor: Colors.blueGrey[800],
+          backgroundColor: Colors.blueGrey[900],
         ),
         body: Container(
           width: double.infinity,
